@@ -1,0 +1,49 @@
+This Tool will unlock your Bootloader so your Data and SD-Card will be deleted! 
+So make a Backup of your SD-Card and /data partition
+
+Disclaimer!
+* Your warranty is now void.
+*
+* I am not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this TOOL
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at me for messing up your device, I will laugh at you.
+
+Other Infos
+
+
+32- & 64- Bit Drivers are included you have to install them bei your own!
+You have to choose samsung and click yes!
+
+Some statistics: 
+- 66.666666667% like the modded recovery more than the normal! 
+- 28.571428571% made the recovery sticky! 
+
+The Recovery that will be flashed is ClockworkMOD 3.0.2.4 from koush so it will work for i9020A, i9020T and i9023 
+
+After the Rooting you should make a Backup of your /efs folder! use my EFS Tool! 
+
+
+the modded Recovery by j_r0dd is the orange Version!
+Apply
+
+run the .bat File as Admin!
+
+
+Make the Recovery Stick
+
+
+If you want to make the recovery stick download the StickyRecovery Script and copy it into the folder of the One Click Root!
+
+then run the .bat file!
+
+wait until your device reboot, then your recovery will stick
+
+
+Credits
+
+Cyanogemod for the Disclaimer
+koush for the Recovery
+and a BIG Credit to shabbypenguin, because he made the main thing i've only modded it to work for the GSM Version
+dev-host for the hosting thingy
